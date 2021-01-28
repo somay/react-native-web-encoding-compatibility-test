@@ -16,4 +16,8 @@ yarn install
 
 3. See the result on the screen
 
+We display two return values on the mobile screen from `TextEncoder` and `TextDecoder`.
+
+[Here](https://github.com/somay/react-native-web-encoding-compatibility-test/blob/main/RNProject/App.js#L29-L32) is where we use these APIs.
+
 ![Result (iOS 14.4 on iPhone 11)](./result.png)
