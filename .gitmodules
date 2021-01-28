@@ -1,0 +1,3 @@
+[submodule "web-encoding"]
+	path = web-encoding
+	url = https://github.com/somay/web-encoding.git
